@@ -21,7 +21,7 @@
   "license": "BSD",
   "dependencies": {
     "format-text": "0.0.3",
-    "left-pad": "0.0.3",
+    "left-pad": "git@github.com:jkdufair/left-pad.git",
     "days": "^0.1.0",
     "months": "^0.1.0"
   },
